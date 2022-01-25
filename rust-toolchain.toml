@@ -1,0 +1,3 @@
+[toolchain]
+channel = "nightly"
+# cargo watch -x run --features bevy/dynamic
