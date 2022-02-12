@@ -22,7 +22,7 @@ fn setup(
 ) {
     wireframe_config.global = true;
 
-    let extent = 1243.0;
+    let extent = 40.0;
     let vertices = [
         ([extent, 0.0, -extent], [0.0, 1.0, 0.0], [1.0, 1.0]),
         ([extent, 0.0, extent], [0.0, 1.0, 0.0], [1.0, 0.0]),
